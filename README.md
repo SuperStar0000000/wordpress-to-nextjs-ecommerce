@@ -6,7 +6,6 @@ The backend is running with the help of woocommerce plugin
 
 
 
-[Read More](https://sarthakkaushik.hashnode.dev/next-js-ecommerce-with-wordpress-woocommerce-as-backend)
 ## Setup 
 - Clone the repo 
 - Run `yarn install`  to install all required dependencies
